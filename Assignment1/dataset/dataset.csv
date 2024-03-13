@@ -1,0 +1,616 @@
+city,inhabitant
+Aalborg,Aalborgenser
+Aarhus,Aarhusian
+Abidjan,Abidjanais
+Adana,Adanite
+Adelaide,Adelaidean
+Addis Ababa,Addis Ababian
+Ahmedabad,Amdavadi
+Agde,Agathois
+Aix-en-Provence,Aixois
+Albany,Albanian
+Albuquerque,Albuquerquean
+Aleppo,Aleppine
+Alexandria,Alexandrian
+Algiers,Algerois
+Almeria,Almerian
+Alpine,Alpinian
+Amalfi,Amalfitan
+Amman,Ammani
+Ammon,Ammonite
+Amparo,Amparense
+Amsterdam,Amsterdammer
+Anchorage,Anchorageite
+Andong,Andong
+Ankara,Ankarite
+Angeles,Angelino
+Angers,Anjou
+Annapolis,Annapolitan
+Antakya,Antakyan
+Antalya,Antalyan
+Aosta,Aostan
+Aqaba,Aqabawi
+Arequipa,Arequipeno
+Arlington,Arlingtonian
+Armagh,Armachian
+Armidale,Armidilian
+Ashdod,Ashdodi
+Asheville,Ashevillain
+Ashkelon,Ashkelonian
+Asmara,Asmaran
+Asuncion,Asunceno
+Athens,Athenian
+Atlanta,Atlantan
+Auckland,Auckland
+Austin,Austonian
+Aydin,Aydinian
+Bacolod,Bacolodnon
+Baku,Bakuvian
+Balikesir,Balikesirian
+Baltimore,Baltimorean
+Bandung,Bandungite
+Bangalore,Bangalorean
+Bangkok,Bangkokian
+Barcelona,Barcelonian
+Barisal,Barisali
+Basel,Basler
+Bath,Bathonian
+Baton Rouge,Baton Rougean
+Bedford,Bedfordian
+Beersheba,Beersheban
+Beijing,Beijingese
+Beirut,Beiruti
+Belfast,Belfast
+Belford Roxo,Belforroxense
+Belo Horizonte,Belo-Horizontino
+Belgrade,Belgradian
+Bellinzona,Bellinzonese
+Benevento,Beneventan
+Bengeo,Bengean
+Bergamo,Bergamasque
+Bergen,Bergener
+Berlin,Berliner
+Bern,Bernese
+Beziers,Bitterois
+Bhopal,Bhopali
+Birmingham,Birminghamian
+Blackburn,Blackburnian
+Bnei Brak,Bnei Brakian
+Bodrum,Bodrumian
+Boise,Boisean
+Bologna,Bolognese
+Bogota,Bogotano
+Bolton,Boltonian
+Bordeaux,Bordelais
+Bossangoa,Bossangoan
+Boston,Bostonian
+Bradford,Bradfordian
+Brasilia,Brasiliense
+Bratislava,Bratislavan
+Bremen,Bremer
+Brescia,Brescian
+Brighton,Brightonian
+Brisbane,Brisbanian
+Bristol,Bristolian
+Brooklyn,Brooklynite
+Brussels,Brusselian
+Bucaramanga,Bumangues
+Bucharest,Bucharestian
+Budapest,Budapestian
+Buffalo,Buffalonian
+Burlington,Burlingtonian
+Bursa,Bursanese
+Busan,Busan
+Calais,Calais
+Cagayan,Cagayanon
+Cairns,Cairnsite
+Cairo,Cairene
+Calgary,Calgarian
+Cali,Caleno
+Cambridge,Cantabrigian
+Campinas,Campineiro
+Campo Grande,Campo Grandense
+Canberra,Canberran
+Cape Town,Capetonian
+Caracas,Caraquenian
+Cardiff,Cardiffian
+Carlisle,Carlislian
+Carson,Carsonite
+Cartagena,Cartagenero
+Carystus,Carystian
+Casper,Casperite
+Castlecrag,Castlecragian
+Cebu,Cebuano
+Changwon,Changwon
+Charleston,Charlestonian
+Charlotte,Charlottean
+Chelmsford,Chelmsfordian
+Cheltenham,Cheltonian
+Chennai,Chennaite
+Chester,Cestrian
+Chesterfield,Cestrefeldian
+Cheyenne,Cheyenneite
+Chiasso,Chiassese
+Chicago,Chicagoan
+Chichester,Cicestrian
+Chilliwack,Chilliwackian
+Chittagong,Chittagonian
+Cincinnati,Cincinnatian
+Cleveland,Clevelander
+Coimbatore,Coimbatoreian
+Colchester,Colchester
+Columbus,Columbusite
+Copenhagen,Copenhagener
+Cordoba,Cordobes
+Corinth,Corinthian
+Cork,Cork
+Coventry,Coventrian
+Culiacan,Culichi
+Cusco,Cusco
+Krakow,Krakovian
+Curitiba,Curitibano
+Daegu,Daegu
+Dalaman,Dalamanian
+Dallas,Dallasite
+Da Lat,Dalatese
+Damascus,Damascene
+Darwin,Darwinian
+Davao,Davaoeno
+Delhi,Delhiite
+Denizli,Denizlian
+Denver,Denver
+Derry,Derry
+Detroit,Detroiter
+Devonport,Devonportian
+Dhaka,Dhakai
+Diyarbakir,Diyarbakirian
+Dresden,Dresdener
+Dublin,Dublin
+Dubai,Dubaite
+Duluth,Duluthian
+Dundee,Dundonian
+Dunedin,Dunedin
+Durango,Durangoan
+Durban,Durban
+East Troy,East Trojan
+Edinburgh,Edinburgensian
+Edmonton,Edmontonian
+Eilat,Eilatian
+El Paso,El Pasoan
+Epidaurus,Epidaurian
+Erzurum,Erzurumian
+Eskisehir,Eskishehirian
+Eugene,Eugenean
+Everett,Everettite
+Exeter,Exonian
+Fargo,Fargoan
+Ferrara,Ferrarese
+Fethiye,Fethiyennese
+Filettino,Filettinesi
+Finchley,Finchleian
+Florence,Florentine
+Foz do Iguacu,Iguacuense
+Frankfurt,Frankfurter
+Fredericton,Frederictonian
+Fresno,Fresnan
+Galway,Galway
+Gaza,Gazan
+Gibraltar,Gibraltarian
+Geelong,Geelong
+Geneva,Genevan
+Genoa,Genoese
+Germiston,Germistonian
+Ghent,Ghentian
+Glasgow,Glaswegian
+Godalming,Godhelmian
+Gold Coast,Gold Coast
+Gosford,Gosford
+Gothenburg,Gothenburger
+Granada,Granadino
+Grand Rapids,Grand Rapidian
+Graz,Grazer
+Grenoble,Grenoblois
+Guayaquil,Guayaquilean
+Guelph,Guelphite
+Gumi,Gumi
+Gwangju,Gwangju
+Gyeongju,Gyeongju
+Hague,Haguer
+Haifa,Haifan
+Halifax,Haligonian
+Hamburg,Hamburgian
+Hamilton,Hamiltonian
+Hanoi,Hanoian
+Hanover,Hanoverian
+Harbin,Harbinite
+Harrisburg,Harrisburger
+Hartlepool,Hartlepudlian
+Hastings,Hastingite
+Hastings,Hastinger
+Hatay,Hatayan
+Havana,Havanan
+Helsinki,Helsinkian
+Hobart,Hobartian
+Holon,Holonian
+Honolulu,Honolulan
+Houston,Houstonian
+Hyderabad,Hyderabadi
+Iloilo,Ilonggo
+Incheon,Incheon
+Invercargill,Invercargill
+Inverness,Invernessian
+Ipoh,Ipohian
+Iriga,Irigueno
+Islamabad,Islamabadi
+Itabira,Itabirano
+Itapira,Itapirense
+Istanbul,Istanbulite
+Ithaca,Ithacan
+Izmir,Izmirite
+Izmit,Izmitite
+Jacksonville,Jacksonvillian
+Jaen,Jienense
+Jakarta,Jakartan
+Jeonju,Jeonju
+Jerusalem,Jerusalemite
+Johannesburg,Johannesburg
+Joshua,Joshuan
+Juba,Juban
+Juiz de Fora,Juiz Forano
+Kandy,Kandian
+Kaluga,Kaluzhanin
+Kansas City,Kansas Citian
+Karachi,Karachiite
+Karpasia,Karpasias
+Kastoria,Kastorian
+Kayseri,Kayserian
+Kenosha,Kenoshan
+Khulna,Khulna
+Kingston,Kingstonian
+Kingston upon Hull,Hullensian
+Kitchener,Kitchenerite
+Kocaeli,Kocalian
+Konya,Konyanite
+Knoxville,Knoxvillian
+Kuala Lumpur,KLite
+Kuching,Kuchingite
+Kyiv,Kyivan
+Lagos,Lagosian
+Lahore,Lahori
+Lancaster,Lancastrian
+Larnaka,Larnakade
+Las Vegas,Las Vegan
+Laval,Lavalois
+Leeds,Leodensian
+Leicester,Leicestrian
+Leipzig,Leipziger
+Legazpi,Legazpeno
+Leon,Leonese
+Lexington,Lexingtonian
+Liberal,Liberalite
+Ligao,Ligaoeno
+Lima,Limeno
+Limassol,Lemesouti
+Limerick,Limerick
+Linz,Linzer
+Lisbon,Lisboan
+Liverpool,Liverpudlian
+Locarno,Locarnese
+London,Londoner
+Londrina,Londrinense
+Los Angeles,Los Angeleno
+Louisville,Louisvillian
+Luanda,Luandan
+Lucca,Lucchese
+Lugano,Luganese
+Luton,Lutonian
+Lviv,Lvivite
+Lyon,Lyonese
+Macau,Macanese
+Mackay,Mackayite
+Madrid,Madrilenian
+Malacca,Malaccan
+Malaga,Malagenean
+Malatya,Malatyan
+Manaus,Manauara
+Manchester,Mancunian
+Manila,Manileno
+Manisa,Manisanian
+Mantua,Mantuan
+Maputo,Maputan
+Marathon,Marathonian
+Mardin,Mardinian
+Marmaris,Marmarisian
+Marseille,Marseillais
+Marshall,Marshall
+Masbate,Masbateno
+Mersin,Mersinite
+Mecca,Meccan
+Medina,Medinan
+Megara,Megarian
+Melbourne,Melburnian
+Memphis,Memphian
+Mendrisio,Mendrisiense
+Messina,Messinese
+Miami,Miamian
+Milan,Milanese
+Milwaukee,Milwaukeean
+Minsk,Minskite
+Misrata,Misratan
+Minneapolis,Minneapolitan
+Minot,Minotian
+Mississauga,Mississaugan
+Modena,Modenese
+Mogi Guacu,Guacuano
+Mogi Mirim,Mogimiriano
+Monaco,Monegasque
+Monrovia,Monrovian
+Montevideo,Montevidean
+Montreal,Montrealer
+Moose Jaw,Moose Jaw
+Morphou,Morfitis
+Moscow,Moscowite
+Moscow,Muscovite
+Mugla,Mughlanian
+Mumbai,Mumbaikar
+Muncie,Munsonian
+Munich,Munchner
+Mymensingh,Mymensinghi
+Mysore,Mysorean
+Naga,Nagueno
+Nagoya,Nagoyan
+Nairobi,Nairobian
+Nanaimo,Nanaimoite
+Nanjing,Nankinese
+Napier,Napieran
+Naples,Neapolitan
+Nashville,Nashvillian
+Nassau,Nassuvian
+Navarre,Navarrian
+Nazareth,Nazarene
+Nelson,Nelson
+Netanya,Netanyan
+Newport,Newportonian
+New Orleans,New Orleanian
+New York,New Yorker
+Bronx,Bronxite
+Brooklyn,Brooklynite
+Manhattan,Manhattanite
+Queens,Queensite
+Staten Island,Staten Islander
+Newcastle,Novocastrian
+Newcastle upon Tyne,Novocastrian
+Nice,Nicois
+Nicosia,Nicosian
+Norfolk,Norfolker
+Northampton,Northamptonian
+Novara,Novarese
+Nuremberg,Nuremberger
+Oakbank,Oakbankian
+Oakland,Oaklander
+Oamaru,Oamaru
+Oaxaca,Oaxacan
+Odesa,Odesan
+Oklahoma City,Oklahoma Cityan
+Omaha,Omahan
+Omak,Omakian
+Ordu,Ordunite
+Orleans,Orleanais
+Osaka,Osakan
+Oshawa,Oshawian
+Oslo,Oslovian
+Oswestry,Oswestrian
+Ottawa,Ottawan
+Oxford,Oxonian
+Paddock Lake,Paddock Laker
+Padua,Paduan
+Paducah,Paducahan
+Paita,Paiteno
+Panaji,Panjimite
+Paphos,Paphian
+Palermo,Palermitan
+Palmerston North,Palmerstonian
+Palmyra,Palmyrene
+Paris,Parisian
+Parma,Parmesan
+Penang,Penangite
+Pescara,Pescarese
+Perth,Perthite
+Perugia,Perugian
+Peterborough,Peterbourian
+Philadelphia,Philadelphian
+Phnom Penh,Phnom Penh
+Phoenix,Phoenician
+Pissouri,Pissouriti
+Pisa,Pisan
+Pittsburgh,Pittsburgher
+Plymouth,Plymothian
+Pohang,Pohang
+Polmont,Polmontarian
+Pompeii,Pompeian
+Ponferrada,Ponferradian
+Port Moresby,Port Moresbian
+Porto,Portuense
+Podgorica,Podgorician
+Porto Alegre,Porto Alegrense
+Porto Cheli,Porto Cheliki
+Portland,Portlander
+Portsmouth,Portsmouthian
+Prague,Praguer
+Preston,Prestonian
+Pripyat,Pripyatin
+Providence,Providentian
+Provo,Provoan
+Puebla,Poblano
+Punta Arenas,Puntarenian
+Pylos,Pylian
+Quebec,Quebecois
+Quito,Quitonian
+Rajshahi,Rajshahiyo
+Radnor,Radnorian
+Raleigh,Raleighite
+Randall,Randallite
+Rangpur,Rangpuri
+Reading,Readingite
+Red Deer,Red Deerian
+Regina,Regina
+Reno,Renoite
+Rethymno,Rethymnian
+Reims,Remois
+Reykjavik,Reykjavikian
+Ribeirao Preto,Ribeirao Pretano
+Richmond,Richmonder
+Riga,Rigan
+Rhodes,Rhodian
+Roanoke,Roanoker
+Rochester,Rochesterian
+Rockhampton,Rockhampton
+Rome,Roman
+Rotorua,Rotoruan
+Rotterdam,Rotter
+Rouen,Rouennais
+Rye,Ryer
+Sacramento,Sacramentan
+Saint Helier,Saint Helian
+Saint Etienne,Stephanois
+Saint Paul,Saint Paulite
+Saint Petersburg,Saint Petersburgite
+Saint Petersburg,Saint Petersburgian
+Salem,Salemite
+Salerno,Salernitan
+Salford,Salfordian
+Salt Lake,Salt Lake
+Salvador,Soteropolitano
+Salzburg,Salzburger
+Sambalpur,Sambalpuria
+Samsun,Samsunite
+San Antonio,San Antonian
+San Diego,San Diegan
+San Francisco,San Franciscan
+San Jose,San Josean
+Santa Barbara,Santa Barbarian
+Santa Clarita,Santa Claritan
+Santa Cruz de la Sierra,Cruceno
+Santa Monica,Santa Monican
+Santiago,Santiaguinos
+Sao Carlos,Saocarlense
+Sao Luis,Ludovicense
+Sao Paulo,Paulistano
+Sarajevo,Sarajevan
+Saskatoon,Saskatoon
+Savannah,Savannian
+Seattle,Seattleite
+Seoul,Seoulite
+Serra Negra,Serrano
+Serres,Serrean
+Seville,Sevillian
+Shanghai,Shanghainese
+Shkoder,Shkodran
+Shrewsbury,Salopian
+Side,Sidetan
+Siena,Sienese
+Silver Lake,Silver Laker
+Singapore,Singaporean
+Skopje,Skopjan
+Slough,Sluff
+Sofia,Sofian
+Solihull,Silhillian
+Somers,Somersite
+Sorrento,Sorrentine
+Sorsogon,Sorsoganon
+Southampton,Sotonian
+Soweto,Sowetan
+Sparta,Spartan
+Spoleto,Spoletian
+Springfield,Springfieldian
+St. Louis,St. Louisan
+Stockholm,Stockholmer
+Strasbourg,Strasbourgeois
+Stuttgart,Stuttgarter
+Sunshine Coast,Sunshine Coast
+Swindon,Swindonian
+Sylhet,Sylheti
+Syracuse,Syracusan
+Syracuse,Syracusian
+Tabaco,Tabaqueno
+Tacna,Tacneno
+Tacoma,Tacoman
+Tallahassee,Tallahasseean
+Tallinn,Tallinner
+Tampa,Tampan
+Tartu,Tartuan
+Taranto,Tarantine
+Tasmania,Tasman
+Taunton,Tauntonian
+Tauranga,Taurangan
+Tbilisi,Tbilisian
+Tehran,Tehrani
+Tekirdag,Tekirdanian
+Tel Aviv,Tel Avivian
+Thebes,Theban
+Thessaloniki,Thessalonian
+Timaru,Timaru
+Tirana,Tiranas
+Toowoomba,Toowoomban
+Toronto,Torontonian
+Toulouse,Toulousian
+Tournai,Tournaisian
+Townsville,Townsvillian
+Trabzon,Trabzonian
+Traverse City,Traverse Citian
+Trevor,Trevorite
+Trent,Tridentine
+Trieste,Triestine
+Tripoli,Tripolitan
+Tripoli,Tripolitano
+Trois Rivieres,Trois Rivieran
+Tucson,Tucsonian
+Tulsa,Tulsan
+Turin,Turinese
+Twin Lakes,Twin Laker
+Tyre,Tyrian
+Uberlandia,Uberlandense
+Ulsan,Ulsan
+Valencia,Valencian
+Valladolid,Vallisoletano
+Van,Vanian
+Vancouver,Vancouverite
+Venice,Venetian
+Veracruz,Veracruzano
+Verona,Veronese
+Vicenza,Vicentine
+Vichy,Vichyssois
+Victoria,Victorian
+Vienna,Viennese
+Villanova,Villanovan
+Ville Platte,Ville Platian
+Vilnius,Vilnian
+Vizag,Vizagite
+Waco,Wacoite
+Warangal,Warangalite
+Warsaw,Warsovian
+Washington,Washingtonian
+Waterbury,Waterburian
+Waterford,Waterfordian
+Waterloo,Waterluvian
+Wellington,Wellington
+Wheatland,Wheatlander
+Whitehorse,Whitehorser
+Wichita,Wichitan
+Wilmot,Wilmotter
+Wythenshawe,Wythenshavian
+Xalapa,Xalapeno
+Xanthi,Xanthian
+Yellowknife,Yellowknifer
+Yeosu,Yeosu
+Yerevan,Yerevantsi
+Yogyakarta,Yogyakartan
+Yokohama,Yokohaman
+Zacatecas,Zacatecan
+Zagreb,Zagrebian
+Zamboanga,Zamboangueno
+Zaragoza,Zaragozan
+Zonguldak,Zonguldaki
+Zintan,Zintani
+Zurich,Zuricher
+Zwolle,Zwollenaar
